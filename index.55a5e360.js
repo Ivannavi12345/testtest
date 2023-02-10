@@ -1,0 +1,2 @@
+window.onclick=function(t){if(!t.target.matches(".dropbtn")){let t=document.getElementsByClassName("dropdown-content");for(i=0;i<t.length;i++){let e=t[i];if(e.classList.contains("show")){e.classList.remove("show");break}}}},window.onclick=function(t){if(!t.target.matches(".dropbtnAAA")){let t=document.getElementsByClassName("dropdown-contentAAA");for(i=0;i<t.length;i++){let e=t[i];e.classList.contains("showAAA")&&e.classList.remove("showAAA")}}};
+//# sourceMappingURL=index.55a5e360.js.map

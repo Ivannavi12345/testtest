@@ -1,0 +1,2 @@
+window.onclick=function(t){if(!t.target.matches(".dropbtn")){var n=document.getElementsByClassName("dropdown-content");for(i=0;i<n.length;i++){var o=n[i];if(o.classList.contains("show")){o.classList.remove("show");break}}}},window.onclick=function(t){if(!t.target.matches(".dropbtnAAA")){var n=document.getElementsByClassName("dropdown-contentAAA");for(i=0;i<n.length;i++){var o=n[i];o.classList.contains("showAAA")&&o.classList.remove("showAAA")}}};
+//# sourceMappingURL=index.09f1d51d.js.map
